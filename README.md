@@ -2,4 +2,4 @@
 web chat application
 
 
-### [LIVE APP URL] (https://bubble-up-chatapp.netlify.app/)
+### [LIVE APP URL](https://bubble-up-chatapp.netlify.app/)
